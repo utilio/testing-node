@@ -3,6 +3,7 @@
   "scripts": {
     "test": "echo 123"
   },
+  "name": "testing-node",
   "dependencies": {},
   "devDependencies": {}
 }
